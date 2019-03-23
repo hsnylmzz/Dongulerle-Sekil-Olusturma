@@ -24,7 +24,7 @@ void eskenarucgen(int num)
        }
       printf("\n");
     }
-
+}
 //Kodun Çıktısı 
 //Bir sayi giriniz: 4
 //         *
